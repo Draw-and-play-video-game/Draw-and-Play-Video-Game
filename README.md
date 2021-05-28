@@ -1,5 +1,5 @@
 # Draw-and-Play-Video-Game
-Senior Software ENGR Project CS46x. An IOS app that will transform a picture into a playable game.
+An IOS app that will transform a picture into a playable game.
 
 # How to Run
 1. Download openCV IOS pack from [here](https://opencv.org/releases/).
