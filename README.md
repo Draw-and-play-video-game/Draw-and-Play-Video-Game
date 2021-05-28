@@ -6,9 +6,9 @@ Senior Software ENGR Project CS46x. An IOS app that will transform a picture int
 2. Unpack it then add the opencv2.framework folder to the project.
 3. Install [This 3rd party lib](https://github.com/nlohmann/json) to the system environment.
 
-# TODO:
-- Detect cross lines
-- Combine adjacent lines
+# TODO
+- Improve the cross lines detection function
+- Improve the functon of Combining adjacent lines
 - Improve the algorithms for better line detections
 - design the main UI
 
